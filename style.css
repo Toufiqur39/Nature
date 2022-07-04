@@ -1,0 +1,24 @@
+.Blog {
+    border: 5px rgb(16, 7, 50) solid;
+    border-radius: 10px;
+    margin: 40px 20px 30px 60px;
+    padding: 20px 20px 40px 10px;
+    width: 25%;
+   float: left;
+    text-align: center;
+}
+.Mid{
+    text-align: center;
+    background-color: rgb(36, 17, 17);
+    color: red;
+}
+.bold{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+img{
+    height: 200px;
+    width: 300px;
+   
+}
