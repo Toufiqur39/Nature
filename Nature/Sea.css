@@ -1,0 +1,15 @@
+body{
+    font-family: 'IM Fell Double Pica', serif;
+}
+.seav{
+    text-align: center;
+    color: rgb(60, 13, 94);
+}
+.Seavi{
+    text-decoration: none;
+    padding: 4px 6px;
+    color: whitesmoke;
+    background-image: linear-gradient(rgb(103, 186, 222), rgb(13, 174, 223));
+    border-radius: 5px;
+
+}
