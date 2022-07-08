@@ -1,0 +1,12 @@
+.mystic{
+    text-align: center;
+    color: rgb(10, 65, 10);
+}
+.wat{
+    text-decoration: none;
+    padding:  1px;
+    color: whitesmoke;
+    background-image: linear-gradient(rgb(11, 71, 11), rgb(8, 124, 150));
+    border-radius: 5px;
+    text-align: center;
+}
