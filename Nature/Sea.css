@@ -4,6 +4,7 @@ body{
 .seav{
     text-align: center;
     color: rgb(60, 13, 94);
+    text-decoration: wavy;
 }
 .Seavi{
     text-decoration: none;
@@ -12,4 +13,28 @@ body{
     background-image: linear-gradient(rgb(103, 186, 222), rgb(13, 174, 223));
     border-radius: 5px;
 
+}
+.ovr{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+
+}
+.pics{
+    height: 400px;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.list{
+    text-align: center;
+    font-weight: 800;
+}
+h1{
+    text-align: center;
+    color: rgb(9, 65, 110);
+}
+h2{
+    text-align: center;
+    color: rgb(9, 65, 110); 
 }

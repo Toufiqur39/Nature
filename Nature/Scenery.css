@@ -67,3 +67,11 @@ img{
     background-image: linear-gradient(rgb(103, 222, 103), rgb(17, 189, 17));
     border-radius: 5px;
 }
+.Nat{
+    text-decoration: none;
+    padding: 4px 6px;
+    color: whitesmoke;
+    background-image: linear-gradient(rgb(11, 71, 11), rgb(8, 124, 150));
+    border-radius: 5px;
+}
+
