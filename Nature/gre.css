@@ -1,0 +1,29 @@
+body{
+    font-family: 'IM Fell Double Pica', serif;
+}
+.new{
+    text-decoration: none;
+    padding: 4px 6px;
+    color: whitesmoke;
+    background-image: linear-gradient(rgb(103, 222, 103), rgb(17, 189, 17));
+    border-radius: 5px
+}
+.GR{
+    text-align: center;
+    color: rgb(8, 124, 8);
+}
+h1{
+    text-align: center;
+    color: rgb(8, 85, 8);
+}
+h2{
+    text-align: center;
+    color: rgb(8, 85, 8); 
+}
+.ext{
+    height: 400px;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

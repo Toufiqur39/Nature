@@ -31,13 +31,14 @@ img{
     text-decoration: underline;
 }
 .package{
-    border: 5px rgb(16, 7, 50) solid;
+    border: 40px rgb(59, 59, 60) solid;
     border-radius: 10px;
     margin: 40px 20px 30px 60px;
     padding: 20px 20px 40px 10px;
     width: 25%;
    float: left;
     text-align: center;
+    border-style: inset;
     
 
 }
@@ -51,6 +52,7 @@ img{
     color: whitesmoke;
     background-image: linear-gradient(rgb(159, 204, 227), rgb(22, 124, 234));
     border-radius: 5px;
+    
 }
 .bat{
     text-decoration: none;
@@ -58,6 +60,7 @@ img{
     color: whitesmoke;
     background-image: linear-gradient(rgb(222, 139, 76), rgb(215, 130, 32));
     border-radius: 5px;
+    
 
 }
 .bit{
@@ -66,12 +69,23 @@ img{
     color: whitesmoke;
     background-image: linear-gradient(rgb(103, 222, 103), rgb(17, 189, 17));
     border-radius: 5px;
+    
 }
 .Nat{
     text-decoration: none;
     padding: 4px 6px;
     color: whitesmoke;
-    background-image: linear-gradient(rgb(11, 71, 11), rgb(8, 124, 150));
+    background-image: linear-gradient(rgb(11, 71, 11), rgb(8, 119, 52));
     border-radius: 5px;
+    
+}
+.Wat{
+    text-decoration: none;
+    padding: 4px 6px;
+    color: whitesmoke;
+    background-image: linear-gradient(rgb(3, 26, 61), rgb(51, 97, 166));
+    border-radius: 5px;
+    
+    
 }
 

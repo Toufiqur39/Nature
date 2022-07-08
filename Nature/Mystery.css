@@ -1,3 +1,6 @@
+body{
+    font-family: 'IM Fell Double Pica', serif;
+}
 .mystic{
     text-align: center;
     color: rgb(10, 65, 10);
@@ -9,4 +12,25 @@
     background-image: linear-gradient(rgb(11, 71, 11), rgb(8, 124, 150));
     border-radius: 5px;
     text-align: center;
+}
+h1{
+    text-align: center;
+    color: rgb(8, 100, 8);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    text-align: center;
+    color: rgb(8, 100, 8);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.pic{
+    height: 400px;
+    width: 600px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.peak{
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
